@@ -8,6 +8,7 @@ opencv : 4.1.2
 yolo   : yolov5-6.0 
 
 ==============分隔線====================
+
 yolov5-6.0\requirements.txt:
 輸入pip install -r requirements.txt
 
@@ -16,6 +17,7 @@ opencv-python==4.1.2.30
 
 torch: 已註解，去官網下載，不要用pip
 ==============分隔線====================
+
 
 sort-master
 不要下載requirement
