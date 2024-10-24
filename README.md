@@ -7,7 +7,7 @@ pytorch: 1.8.1+cu111
 opencv : 4.1.2
 yolo   : yolov5-6.0 
 
-yolov5-6.0\requirements.txt:
+yolov5-6.0\requirements.txt
     輸入pip install -r requirements.txt
 
     opencv-python==4.1.2.30
