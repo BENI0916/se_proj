@@ -1,10 +1,15 @@
 使用anaconda
 
 python : 3.8.20
+
 numpy  : 1.21.0
+
 cuda   : 11.1
+
 pytorch: 1.8.1+cu111
+
 opencv : 4.1.2
+
 yolo   : yolov5-6.0 
 
 ==============分隔線====================
